@@ -35,6 +35,52 @@ git push
 ```
 
 ### Step 6: Create Pull Request
+Go to your forked repo on GitHub
+Click:
 
+➡️ Compare & Pull Request
+➡️ Create Pull Request
+
+Write a short message, like:
+
+Added my information file in students folder.
 ---
+### Step 7: Review Two Other Students’ Pull Requests
+
+```
+Visit classmates' PRs and leave one comment each, such as:
+
+Missing roll number
+
+Incorrect file format
+
+Missing field
+
+Example comment:
+
+Please add your favorite programming language.
+
+This simulates peer code review.
+
+```
+
+⭐ Important Rules
+
+❌ Do NOT edit files of other students
+❌ Do NOT modify README.md
+❌ Your file MUST be inside /students
+
+✔ Use a meaningful commit message
+✔ Push only relevant changes
+
+🧠 Why This Matters?
+
+This exercise teaches:
+
+💡 Version control
+💡 Team collaboration
+💡 Code review culture
+💡 Professional workflow
+
+which is exactly how modern software teams operate.
 Happy Coding!
