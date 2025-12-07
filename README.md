@@ -3,6 +3,8 @@
 This repository is created for students to practice real-world GitHub workflow.
 
 ## Instructions for Students
+amna Jaffar 
+s2024105029@ 
 
 ### Step 1: Fork the Repository
 Click the "Fork" button to make your own copy.
